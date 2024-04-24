@@ -1,15 +1,11 @@
-
-```
 # config.json Setup
 ```
 {
-
 "base_url" : "https://sbdynamic.pay.bka.sh/v1",
 "username" : "your_bkash_provide_username",
 "password" : "your_bkash_provide_password",
 "app_key" : "your_bkash_provide_app_key",
 "app_secret" : "your_bkash_provide_app_secret"
-
 }
 
 ```
